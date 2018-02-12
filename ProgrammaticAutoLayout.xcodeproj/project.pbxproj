@@ -14,6 +14,7 @@
 		97C108F1203223FD006CF831 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C108EF203223FD006CF831 /* LaunchScreen.storyboard */; };
 		97C108F920324B9D006CF831 /* VisualFormatLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */; };
 		97C108FB2032505B006CF831 /* LayoutGuides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C108FA2032505B006CF831 /* LayoutGuides.swift */; };
+		97C108FD2032511C006CF831 /* SafeAreaInsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C108FC2032511C006CF831 /* SafeAreaInsets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		97C108F2203223FD006CF831 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualFormatLanguage.swift; sourceTree = "<group>"; };
 		97C108FA2032505B006CF831 /* LayoutGuides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutGuides.swift; sourceTree = "<group>"; };
+		97C108FC2032511C006CF831 /* SafeAreaInsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaInsets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				97C108F2203223FD006CF831 /* Info.plist */,
 				97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */,
 				97C108FA2032505B006CF831 /* LayoutGuides.swift */,
+				97C108FC2032511C006CF831 /* SafeAreaInsets.swift */,
 			);
 			path = ProgrammaticAutoLayout;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				97C108FB2032505B006CF831 /* LayoutGuides.swift in Sources */,
 				97C108E9203223FD006CF831 /* ViewController.swift in Sources */,
 				97C108F920324B9D006CF831 /* VisualFormatLanguage.swift in Sources */,
+				97C108FD2032511C006CF831 /* SafeAreaInsets.swift in Sources */,
 				97C108E7203223FD006CF831 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
