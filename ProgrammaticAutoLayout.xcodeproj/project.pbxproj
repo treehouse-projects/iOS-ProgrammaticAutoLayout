@@ -13,6 +13,7 @@
 		97C108EE203223FD006CF831 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C108ED203223FD006CF831 /* Assets.xcassets */; };
 		97C108F1203223FD006CF831 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C108EF203223FD006CF831 /* LaunchScreen.storyboard */; };
 		97C108F920324B9D006CF831 /* VisualFormatLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */; };
+		97C108FB2032505B006CF831 /* LayoutGuides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C108FA2032505B006CF831 /* LayoutGuides.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		97C108F0203223FD006CF831 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97C108F2203223FD006CF831 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualFormatLanguage.swift; sourceTree = "<group>"; };
+		97C108FA2032505B006CF831 /* LayoutGuides.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutGuides.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				97C108EF203223FD006CF831 /* LaunchScreen.storyboard */,
 				97C108F2203223FD006CF831 /* Info.plist */,
 				97C108F820324B9D006CF831 /* VisualFormatLanguage.swift */,
+				97C108FA2032505B006CF831 /* LayoutGuides.swift */,
 			);
 			path = ProgrammaticAutoLayout;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97C108FB2032505B006CF831 /* LayoutGuides.swift in Sources */,
 				97C108E9203223FD006CF831 /* ViewController.swift in Sources */,
 				97C108F920324B9D006CF831 /* VisualFormatLanguage.swift in Sources */,
 				97C108E7203223FD006CF831 /* AppDelegate.swift in Sources */,
